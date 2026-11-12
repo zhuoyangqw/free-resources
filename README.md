@@ -44,3 +44,53 @@
 - 只用官方链接，不要用第三方破解版
 - 免费 VPN 只用一个，不要叠加使用
 - 节点类资源只用自己搭建的，不要用陌生人分享的订阅
+
+
+---
+
+# Free Resources Collection
+
+Free Resources Collection — Free, open-source, non-profit resources only.
+
+## Free VPNs
+- Proton VPN Free - Free forever, unlimited data, open source: https://protonvpn.com/
+- Tor Browser - Non-profit Tor Project, anonymous browsing: https://www.torproject.org/
+- Psiphon - Open-source free VPN, no account required: https://psiphon.ca/
+
+## Free Software
+- LibreOffice - Free alternative to Office: https://www.libreoffice.org/
+- OBS Studio - Free screen recording and live streaming: https://obsproject.com/
+- Shotcut - Free open-source video editor: https://www.shotcut.org/
+- Anki - Free flashcards with spaced repetition: https://apps.ankiweb.net/
+- Blender - Free 3D modelling: https://www.blender.org/
+- GIMP - Free alternative to Photoshop: https://www.gimp.org/
+- 拾影 ShiYing - Free open-source video downloader: https://github.com/Jaqennn/ShiYing
+
+## Free Learning
+- freeCodeCamp - Learn programming for free: https://github.com/freeCodeCamp/freeCodeCamp
+- free-programming-books - Collection of free programming books: https://github.com/EbookFoundation/free-programming-books
+- public-apis - Collection of free APIs: https://github.com/public-apis/public-apis
+
+## Free Cloud
+- Oracle Cloud Always Free - Free forever, 2 vCPU / 12 GB: https://www.oracle.com/cloud/free/
+- Railway - $5 trial credit: https://railway.com/
+- Cloady - Free 0.5 vCPU / 1 GB: https://cloady.com/
+- Cloudflare Workers - Free website hosting / proxy: https://workers.cloudflare.com/
+
+## Free AI
+- DeepSeek - Free large language model: https://www.deepseek.com/
+- Kimi - Free AI assistant: https://kimi.moonshot.cn/
+
+## Free Video & Music
+- MusicFree - Plugin-based free music player: https://github.com/maotoumao/MusicFree
+
+## Browser Extensions
+- uBlock Origin - Block ads
+- Dark Reader - Dark mode
+- Video DownloadHelper - Download videos from web pages
+- Proton VPN - Browser VPN extension
+
+## Usage Notes
+- Use official links only; do not use third-party cracked versions
+- Use only one free VPN at a time; do not use several together
+- For node-related resources, use only ones you set up yourself; do not use subscriptions shared by strangers
