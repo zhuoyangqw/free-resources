@@ -94,3 +94,17 @@ Free Resources Collection — Free, open-source, non-profit resources only.
 - Use official links only; do not use third-party cracked versions
 - Use only one free VPN at a time; do not use several together
 - For node-related resources, use only ones you set up yourself; do not use subscriptions shared by strangers
+
+## X 代码工具
+- XActions - X 自动化全套，抓推文、发推、CLI：https://github.com/nirholas/XActions
+- x-tweet-fetcher - 不用登录、不用 API Key 抓推文：https://github.com/ythx-101/x-tweet-fetcher
+- X 官方示例 - X API v2 官方示例：https://github.com/xdevplatform/samples
+- twitter-agent - 模拟真人发推、回复的机器人：https://github.com/JameWade/twitter-agent
+注意：X 官方 API 发推要付费，第三方工具可能随时失效，不要刷屏。
+
+## X Code Tools
+- XActions - Complete X automation toolkit: https://github.com/nirholas/XActions
+- x-tweet-fetcher - Fetch tweets without login or API keys: https://github.com/ythx-101/x-tweet-fetcher
+- X Official Samples - X API v2 samples: https://github.com/xdevplatform/samples
+- twitter-agent - Bot that posts and replies like a real user: https://github.com/JameWade/twitter-agent
+Note: X official API posting is paid, third-party tools may break, do not spam.
