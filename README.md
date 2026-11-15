@@ -19,6 +19,7 @@
 ## 免费学习
 - freeCodeCamp - 免费学编程：https://github.com/freeCodeCamp/freeCodeCamp
 - free-programming-books - 免费编程书大全：https://github.com/EbookFoundation/free-programming-books
+- 
 - public-apis - 免费 API 大全：https://github.com/public-apis/public-apis
 
 ## 免费云
@@ -31,6 +32,7 @@
 - DeepSeek - 免费大模型：https://www.deepseek.com/
 - Kimi - 免费 AI 助手：https://kimi.moonshot.cn/
 
+- Free Claude Code - 免费开源本地中转工具，让 Claude Code / Codex / OpenCode 去接 NVIDIA NIM、Groq、Gemini 等 61 家免费模型，每月 1.3B+ 免费 token；不是 Claude 本身，模型质量低于 Claude Opus/Sonnet：https://github.com/Alishahryar1/free-claude-code
 ## 免费视频音乐
 - MusicFree - 插件化免费音乐播放器：https://github.com/maotoumao/MusicFree
 
@@ -80,6 +82,7 @@ Free Resources Collection — Free, open-source, non-profit resources only.
 ## Free AI
 - DeepSeek - Free large language model: https://www.deepseek.com/
 - Kimi - Free AI assistant: https://kimi.moonshot.cn/
+- Free Claude Code - Free open-source local relay tool that lets Claude Code / Codex / OpenCode connect to 61 free models including NVIDIA NIM, Groq and Gemini, with 1.3B+ free tokens per month; it is not Claude itself, and model quality is below Claude Opus/Sonnet: https://github.com/Alishahryar1/free-claude-code
 
 ## Free Video & Music
 - MusicFree - Plugin-based free music player: https://github.com/maotoumao/MusicFree
