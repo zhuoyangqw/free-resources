@@ -19,7 +19,6 @@
 ## 免费学习
 - freeCodeCamp - 免费学编程：https://github.com/freeCodeCamp/freeCodeCamp
 - free-programming-books - 免费编程书大全：https://github.com/EbookFoundation/free-programming-books
-- 
 - public-apis - 免费 API 大全：https://github.com/public-apis/public-apis
 
 ## 免费云
